@@ -118,4 +118,21 @@ body{
 }                                                                                          nav a:hover{
                                                                                                       color:#ff5722;
                                                                                                         }
+                                                                    nav {
+                                                                            background-color: #0056b3;
+                                                                                padding: 15px;
+                                                                                    text-align: center;
+                                                                                    }
+
+                                                                                    nav a {
+                                                                                        color: white;
+                                                                                            text-decoration: none;
+                                                                                                margin: 0 15px;
+                                                                                                    font-size: 18px;
+                                                                                                        font-weight: bold;
+                                                                                                        }
+
+                                                                                                        nav a:hover {
+                                                                                                            color: yellow;
+                                                                                                            }
                                                                     }
